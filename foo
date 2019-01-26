@@ -4,5 +4,7 @@ echo Maybe this works
 
 echo OK
 
+echo My line 1
+
 exit 0;
 
