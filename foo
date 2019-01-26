@@ -6,5 +6,7 @@ echo OK
 
 echo My line 1
 
+echo Next Line
+
 exit 0;
 
