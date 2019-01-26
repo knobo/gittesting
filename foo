@@ -2,4 +2,7 @@
 
 echo Maybe this works
 
+echo OK
+
+exit 0;
 
