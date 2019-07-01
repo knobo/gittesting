@@ -3,6 +3,9 @@ This was the old file
 
 // Fixing this commit
 
+function () {
+    // do something
+}
 
 
 Sniking in stuff
